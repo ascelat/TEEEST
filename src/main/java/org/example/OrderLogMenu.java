@@ -1,2 +1,8 @@
-package org.example;public class OrderLogMenu {
+package org.example;
+
+public class OrderLogMenu {
+    public void order(){
+        System.out.println("order log");
+    }
+
 }
